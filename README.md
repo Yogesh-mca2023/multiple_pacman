@@ -13,4 +13,5 @@ The HTML document creates a basic Pac-Man game with randomly generated Pac-Man c
 **Future Enhancements:**
 
 1)Add scoring and obstacles for increased complexity.
+
 2)Incorporate user controls for interactive gameplay.
